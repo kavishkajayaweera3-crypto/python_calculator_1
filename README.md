@@ -44,15 +44,25 @@ Example Session
 text
 Select operation.
 1.Add      : + 
+
 2.Subtract : - 
+
 3.Multiply : * 
+
 4.Divide   : / 
+
 5.Power    : ^ 
+
 6.Remainder: % 
+
 7.Terminate: # 
+
 8.Reset    : $ 
+
 9.History  : ? 
+
 Enter choice(+,-,*,/,^,%,#,$,?): +
+
 Enter first number: 4
 4
 Enter second number: 3
