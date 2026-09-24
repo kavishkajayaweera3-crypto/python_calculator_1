@@ -71,15 +71,21 @@ Enter second number: 3
 
 Select operation.
 ...
+
 Enter choice(+,-,*,/,^,%,#,$,?): ?
+
 4.0 + 3.0 = 7.0
+
 Project Structure
+
 text
+
 python-calculator/
 ├── calculator.py      # Main calculator program
 ├── README.md          # This file
 ├── requirements.txt   # Dependencies (if any)
 └── tests/             # Test files (optional)
+
 Requirements
 Python 3.x
 
